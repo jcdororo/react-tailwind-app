@@ -6,3 +6,7 @@
 `$ npm install react-icons`
 
 # PostCSS & AutoFixer
+   
+
+# React Scroll
+`$ npm install react-scroll`
